@@ -48,11 +48,11 @@ Here are some ideas to get you started:
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=sakurajh&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
-
-
+  
 <div align="center">
-    <img  src="https://visitor-badge.glitch.me/badge?page_id=sakurajh" />
+    <img src="https://github-readme-stats.vercel.app/api?username=sakurajh&show_icons=true&theme=radical">
 </div>
+
 
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sakurajh&theme=dark&hide_border=true" />
