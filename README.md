@@ -27,6 +27,10 @@ Here are some ideas to get you started:
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);不必仰望别人，自己亦是风景!&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
+<div align="center">
+  <!-- knock code pictures 敲代码的图片 -->
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
+ </div>
 
 <h1 align="center">
 <span >
