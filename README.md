@@ -48,15 +48,31 @@ Here are some ideas to get you started:
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=sakurajh&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
+
+
+<div align="center"> 
+	<img src="https://stats.justsong.cn/api/csdn?id=Sakura_j_h_&theme=omni"> 
+</div>
+
+
+
   
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=sakurajh&show_icons=true&theme=radical">
+    <img src="https://github-readme-stats.vercel.app/api?username=sakurajh&show_icons=true&theme=omni">
 </div>
 
 
-<div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sakurajh&theme=dark&hide_border=true" />
-</div>
+
+
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=sakurajh&theme=dark&theme=omni" alt="GitHub Streak">
+  </a>
+</p>
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sakurajh&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sakurajh/sakurajh/output/github-contribution-grid-snake-dark.svg" />
