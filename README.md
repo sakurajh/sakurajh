@@ -42,9 +42,9 @@ Here are some ideas to get you started:
 
 <!-- profile logo 个人资料徽标 -->
   <div align="center">
-    <a href="https://blog.sunguoqi.com/"><img src="https://github.com/sakurajh-博客-blue" /></a>&emsp;
+    <a href="https://img.shields.io/badge/WeChat-微信-07c160"><img src="https://img.shields.io/badge/Blog-博客-07c160" /></a>&emsp;
     <a href="https://box.sunguoqi.com/weixin_mp"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
-    <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href="https://www.csdn.net/?spm=1018.2226.3001.4476"><img src="https://img.shields.io/badge/CSDN-博客-07c160" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=sakurajh&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
