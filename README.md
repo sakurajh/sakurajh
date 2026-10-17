@@ -21,22 +21,47 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
 
 <!-- ==================== 关于我 ==================== -->
-<h2 align="center">✦ 关于我 ✦</h2>
+<h2 align="center">✨ 关于我</h2>
+
+<div align="center">
+
+**「 把重复劳动变成一键脚本 」**
+
+<sub>嵌入式 · Web 后端 · 桌面工具 · 科学计算 —— 喜欢把想法做成能跑起来的东西</sub>
+
+</div>
+
+<div align="center">
+
+| | | |
+|:---:|:---:|:---:|
+| **🔭 现在在做**<br/><br/>科学计算流程自动化<br/>超算集群作业工具<br/>Web 全栈小项目 | **🌱 正在学习**<br/><br/>HarmonyOS 应用开发<br/>FastAPI · 机器视觉<br/>分子动力学模拟 | **🎯 小小目标**<br/><br/>写更多好用的<br/>开源小工具<br/>把踩过的坑填平 |
+| **🧰 技术栈**<br/><br/>Python · C# · Java · C<br/>JavaScript · TypeScript · ArkTS | **💬 联系我**<br/><br/>1853525104@qq.com<br/>[我的博客](https://www.sakura.work.gd/) | **⭐ 座右铭**<br/><br/>不必仰望别人<br/>自己亦是风景 |
+
+</div>
+
+<details>
+<summary><b>💻 点我展开「程序员版」自我介绍</b></summary>
 
 ```ts
 const sakurajh = {
-  身份    : "热爱折腾代码的开发者",
-  擅长    : ["Python", "C#", "Java", "C", "JavaScript", "ArkTS"],
-  正在做  : ["科学计算流程自动化", "超算集群工具", "Web 全栈小项目"],
-  正在学  : ["HarmonyOS 应用开发", "FastAPI", "机器视觉"],
-  座右铭  : "把重复劳动变成一键脚本",
-  联系我  : "1853525104@qq.com",
+  name    : "小赵 / sakurajh",
+  role    : "热爱折腾代码的开发者",
+  stack   : ["Python", "C#", "Java", "C", "JavaScript", "ArkTS"],
+  doing   : ["科学计算流程自动化", "超算集群工具", "Web 全栈小项目"],
+  learning: ["HarmonyOS 应用开发", "FastAPI", "机器视觉"],
+  motto   : "不必仰望别人，自己亦是风景",
+  contact : "1853525104@qq.com",
 };
 ```
+<!-- 如果我的代码能帮你省下十分钟，那它就值得写 🙂 -->
+
+</details>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,cs,java,c,js,ts,html,css,mysql,git,githubactions,linux&theme=light&perline=12" alt="skill icons"/>
 </div>
+
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
 
@@ -78,6 +103,15 @@ const sakurajh = {
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sakurajh&theme=radical" alt="repos per language"/>
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sakurajh&theme=radical&utcOffset=8" alt="productive time"/>
 </div>
+
+<!-- ==================== 3D 贡献星图 ==================== -->
+<h2 align="center">🌌 3D 贡献星图</h2>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sakurajh/sakurajh/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3d contribution graph"/>
+</div>
+
+<p align="center"><sub>🌌 由 GitHub Actions 每天自动生成的立体贡献图，会慢慢旋转</sub></p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
 
