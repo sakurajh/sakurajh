@@ -51,9 +51,9 @@ jobs:
           github_user_name: sakurajh
           outputs: |
 
-            dist/github-contribution-grid-snake.svg?color_snake=%237c3aed&color_dots=%23ebedf0,%23d8c7fb,%23b18cf5,%238b5cf6,%236d28d9
+            dist/github-contribution-grid-snake.svg?color_snake=#7c3aed&color_dots=#ebedf0,#ddd6fe,#c4b5fd,#a78bfa,#7c3aed
 
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23a78bfa
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#a78bfa
 
         env:
 
