@@ -18,6 +18,13 @@
   <img src="https://hits.sh/github.com/sakurajh.svg?label=Views&color=2575fc&style=for-the-badge" alt="Views"/>
 </div>
 
+<!-- CSDN 数据（GitHub Actions 每天自动更新 csdn.json） -->
+<div align="center">
+  <a href="https://blog.csdn.net/Sakura_j_h_"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsakurajh%2Fsakurajh%2Fmain%2Fcsdn.json&query=%24.views&label=CSDN%20%E8%AE%BF%E9%97%AE%E9%87%8F&color=fc5531&style=for-the-badge" alt="CSDN Views"/></a>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsakurajh%2Fsakurajh%2Fmain%2Fcsdn.json&query=%24.original&label=%E5%8E%9F%E5%88%9B&color=0ea5e9&style=for-the-badge" alt="CSDN Original"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsakurajh%2Fsakurajh%2Fmain%2Fcsdn.json&query=%24.fans&label=%E7%B2%89%E4%B8%9D&color=22c55e&style=for-the-badge" alt="CSDN Fans"/>
+</div>
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
 
 <!-- ==================== 关于我 ==================== -->
