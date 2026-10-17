@@ -71,13 +71,12 @@ const sakurajh = {
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sakurajh&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" alt="trophies"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakurajh&theme=radical" width="100%" alt="profile details"/>
 </div>
 
 <div align="center">
-  <a href="https://github.com/sakurajh">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakurajh&theme=redical&hide_border=true&area=true&custom_title=%E8%B4%A1%E7%8C%AE%E6%B4%BB%E5%8A%A8%E5%9B%BE" width="100%" alt="activity graph"/>
-  </a>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sakurajh&theme=radical" alt="repos per language"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sakurajh&theme=radical&utcOffset=8" alt="productive time"/>
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
