@@ -15,7 +15,7 @@
   <a href="https://www.sakura.work.gd/"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-sakura.work.gd-0ea5e9?style=for-the-badge&logo=rss&logoColor=white" alt="Blog"/></a>
   <a href="mailto:1853525104@qq.com"><img src="https://img.shields.io/badge/%E9%82%AE%E7%AE%B1-1853525104%40qq.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://blog.csdn.net/Sakura_j_h_"><img src="https://img.shields.io/badge/CSDN-Sakura__j__h_-fc5531?style=for-the-badge&logo=csdn&logoColor=white" alt="CSDN"/></a>
-  <img src="https://komarev.com/ghpvc/?username=sakurajh&label=Views&color=2575fc&style=for-the-badge" alt="Views"/>
+  <img src="https://hits.sh/github.com/sakurajh.svg?label=Views&color=2575fc&style=for-the-badge" alt="Views"/>
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
