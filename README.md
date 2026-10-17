@@ -63,7 +63,7 @@ const sakurajh = {
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=sakurajh&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakurajh&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="top langs"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakurajh&layout=compact&theme=radical&hide_border=true&langs_count=7&card_width=495" alt="top langs"/>
 </div>
 
 <div align="center">
